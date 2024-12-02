@@ -18,5 +18,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=goshaishere&show_icons=true&locale=en" alt="goshaishere" /></p>
 
-<p><img align="center" src="https://goshaishere.github.io/" alt="goshaishere" /></p>
-<p><img align="center" src="https://egoshaishere.github.io/" alt="goshaishere" /></p>
+<p><a align="center" src="https://goshaishere.github.io/" alt="goshaishere" /></p>
+<p><a align="center" src="https://egoshaishere.github.io/" alt="egoshaishere" /></p>
