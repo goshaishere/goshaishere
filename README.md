@@ -2,7 +2,6 @@
 <h3 align="center">Full Stack Developer</h3>
 
 <p>- 🔭 I’m currently working on **CRM system and online store**</p>
-
 <p><a href="https://goshaishere.github.io/">goshaishere</a></p>
 <p><a href="https://egoshaishere.github.io/">egoshaishere</a></p>
 
@@ -11,6 +10,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=goshaishere" alt="goshaishere" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=goshaishere&show_icons=true&locale=en&layout=compact" alt="goshaishere" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=goshaishere&show_icons=true&locale=en" alt="goshaishere" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=goshaishere&show_icons=true&locale=en&layout=compact" alt="goshaishere" /></p>
