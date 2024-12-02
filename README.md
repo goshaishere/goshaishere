@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm goshaishere</h1>
 <h3 align="center">Full Stack Developer</h3>
+- 🔭 I’m currently working on **CRM system and online store**
 
+<p><a href="https://goshaishere.github.io/">goshaishere</a></p>
+<p><a href="https://egoshaishere.github.io/">egoshaishere</a></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goshaishere&label=Profile%20views&color=0e75b6&style=flat" alt="goshaishere" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=goshaishere" alt="goshaishere" /></a> </p>
 
-- 🔭 I’m currently working on **CRM system and online store**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
@@ -17,6 +17,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=goshaishere&show_icons=true&locale=en&layout=compact" alt="goshaishere" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=goshaishere&show_icons=true&locale=en" alt="goshaishere" /></p>
-
-<p><a align="center" src="https://goshaishere.github.io/" alt="goshaishere" /></p>
-<p><a align="center" src="https://egoshaishere.github.io/" alt="egoshaishere" /></p>
