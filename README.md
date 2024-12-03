@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm goshaishere</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=goshaishere&label=Profile%20views&color=0e75b6&style=flat" alt="goshaishere" /> </p>
+<p>- 🔭 I’m currently working on **CRM system and online store**</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=goshaishere" alt="goshaishere" /></a> </p>
 
-- 🔭 I’m currently working on **CRM system and online store**
+
 
 <p align="left">
 </p>
@@ -19,3 +19,4 @@
 
 <p><a href="https://goshaishere.github.io/">goshaishere</a></p>
 <p><a href="https://egoshaishere.github.io/">egoshaishere</a></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=goshaishere&label=Profile%20views&color=0e75b6&style=flat" alt="goshaishere" /> </p>
