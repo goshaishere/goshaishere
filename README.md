@@ -18,7 +18,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=goshaishere&show_icons=true&locale=en" alt="goshaishere" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=goshaishere&" alt="goshaishere" /></p>
-
 <p><a href="https://goshaishere.github.io/">goshaishere</a></p>
 <p><a href="https://egoshaishere.github.io/">egoshaishere</a></p>
