@@ -52,6 +52,7 @@
 ![Microsoft SQL Server](https://img.shields.io/badge/-MS_SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 
 **More Tools:**
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black)
 ![Babel](https://img.shields.io/badge/-Babel-F9DC3E?style=flat-square&logo=babel&logoColor=black)
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)
