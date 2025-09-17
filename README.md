@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello, I'm Egor</h1>
+<h1 align="center">👋 Hello, I'm Gosha</h1>
 <h3 align="center">A passionate Full-Stack Developer from Russia</h3>
 
 <br>
@@ -15,9 +15,9 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white)
 ![Quasar](https://img.shields.io/badge/-Quasar-1976D2?style=for-the-badge&logo=quasar&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 **Backend:**
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -26,7 +26,12 @@
 ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-**Databases & Tools:**
+**Testing & QA:**
+![Jest](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Puppeteer](https://img.shields.io/badge/-Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white)
+
+**Databases & DevOps:**
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -55,15 +60,12 @@
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black)
 ![Babel](https://img.shields.io/badge/-Babel-F9DC3E?style=flat-square&logo=babel&logoColor=black)
-![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white)
 ![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
-![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
-![Puppeteer](https://img.shields.io/badge/-Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white)
 
 </details>
 
@@ -71,14 +73,15 @@
 
 ### 📊 &nbsp;GitHub Stats
 
+> [!NOTE]
+> *The stats below are updated less frequently to avoid API limits.*
+
 <p align="center">
-  <!-- Используем статически сгенерированные SVG через действия GitHub (github-action-readme-stats) -->
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=goshaishere&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=1AF7C0&icon_color=F8D866" alt="Gosha's GitHub Stats" height="165"/>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=goshaishere&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=1AF7C0" height="165"/>
 </p>
 
 <p align="center">
-  <!-- Генератор трофеев, менее зависимый от API -->
   <img src="https://github-profile-trophy.vercel.app/?username=goshaishere&theme=onestar&no-frame=true&column=4&margin-w=15" alt="Gosha's Trophies" />
 </p>
 
@@ -98,7 +101,7 @@
 ---
 
 <p align="center">
-   <img src="https://visitcount.itsvg.in/api?id=goshaishere&icon=5&color=1" alt="Profile Views" /> <!-- Альтернативный счетчик -->
+   <img src="https://visitcount.itsvg.in/api?id=goshaishere&icon=5&color=1" alt="Profile Views" />
 </p>
 
 <p align="center">
