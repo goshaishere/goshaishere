@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello, I'm Gosha</h1>
+<h1 align="center">👋 Hello, I'm Egor</h1>
 <h3 align="center">A passionate Full-Stack Developer from Russia</h3>
 
 <br>
@@ -82,7 +82,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=goshaishere&theme=onestar&no-frame=true&column=4&margin-w=15" alt="Gosha's Trophies" />
+  <!-- Трофеи на светлом фоне -->
+  <img src="https://github-profile-trophy.vercel.app/?username=goshaishere&theme=flat&no-frame=false&column=4&margin-w=15" alt="Gosha's Trophies" />
 </p>
 
 ---
