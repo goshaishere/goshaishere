@@ -73,17 +73,15 @@
 
 ### 📊 &nbsp;GitHub Stats
 
-> [!NOTE]
-> *The stats below are updated less frequently to avoid API limits.*
-
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=goshaishere&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=1AF7C0&icon_color=F8D866" alt="Gosha's GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=goshaishere&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=1AF7C0" height="165"/>
+  <!-- Статистика со светлой темой -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=goshaishere&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=000000&icon_color=000000&text_color=000000" alt="Egor's GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=goshaishere&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=000000&text_color=000000" height="165"/>
 </p>
 
 <p align="center">
   <!-- Трофеи на светлом фоне -->
-  <img src="https://github-profile-trophy.vercel.app/?username=goshaishere&theme=flat&no-frame=false&column=4&margin-w=15" alt="Gosha's Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=goshaishere&theme=flat&no-frame=false&column=4&margin-w=15" alt="Egor's Trophies" />
 </p>
 
 ---
