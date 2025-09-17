@@ -70,9 +70,6 @@
 
 ### 📊 &nbsp;GitHub Stats
 
-> [!NOTE]
-> *The stats below are updated less frequently to avoid API limits.*
-
 <p align="center">
   <!-- Используем статически сгенерированные SVG через действия GitHub (github-action-readme-stats) -->
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=goshaishere&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=1AF7C0&icon_color=F8D866" alt="Gosha's GitHub Stats" height="165"/>
