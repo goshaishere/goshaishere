@@ -86,6 +86,34 @@
 - **🛒 High-load online store** built with a modern stack (Vue/Nuxt, Node.js, MongoDB).
 - **🔧 Various open-source tools** and contributions.
 
+### 🐾 &nbsp;Pet Projects
+
+#### 🎨 [UI Kit](https://goshaishere.github.io)
+**Vue2 + Quasar UI компоненты**
+- Vue.js 2.6.14 - прогрессивный JavaScript фреймворк
+- Vuex 3.6.2 - управление состоянием приложения
+- Quasar Framework 1.16.9 - Material Design компоненты
+- Webpack 4.46.0 - сборщик модулей
+- Babel - транспиляция современного JavaScript
+
+#### 🗺️ [TacMap](https://egoshaishere.github.io)
+**Тактическая карта для командной работы**
+- Vue 3 - современный реактивный фреймворк
+- Vite - быстрый сборщик модулей
+- Pinia - управление состоянием
+- Vuetify 3 - Material Design компоненты
+- vue-yandex-maps - интеграция с Яндекс.Картами
+
+#### 🎲 [D&D Master](https://dnd-master-front.netlify.app/)
+**Личный кабинет мастера подземелий**
+- Vue 3 - реактивный фреймворк
+- TypeScript - типизация
+- Vuetify 3 - UI библиотека
+- Pinia - управление состоянием
+- Vite - сборщик
+- Vue Router - маршрутизация
+- VueUse - утилиты Vue
+
 ### 📫 &nbsp;Connect with Me
 
 - **github:** [goshaishere](https://github.com/goshaishere)  
